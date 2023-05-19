@@ -1,3 +1,8 @@
 this is first file and first commit at 16:30
 this is first file and second commit at 16:31
 
+also this was branched file commit 1
+
+and now commit 3 at main
+creating a branch at commit known as br2
+
